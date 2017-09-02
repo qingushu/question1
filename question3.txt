@@ -1,0 +1,22 @@
+tests-MBP:cisc3410 gushuqin$ java question3
+March
+tests-MBP:cisc3410 gushuqin$ java question3
+July
+tests-MBP:cisc3410 gushuqin$ java question3
+August
+tests-MBP:cisc3410 gushuqin$ java question3
+January
+tests-MBP:cisc3410 gushuqin$ java question3
+March
+tests-MBP:cisc3410 gushuqin$ java question3
+November
+tests-MBP:cisc3410 gushuqin$ java question3
+December
+tests-MBP:cisc3410 gushuqin$ java question3
+February
+tests-MBP:cisc3410 gushuqin$ java question3
+July
+tests-MBP:cisc3410 gushuqin$ java question3
+January
+tests-MBP:cisc3410 gushuqin$ java question3
+February

@@ -1,0 +1,36 @@
+tests-MBP:cisc3410 gushuqin$ java question5
+Please Enter three 2D point x1,y1,x2,y2,x3,y3 on Coordinate System
+-1
+-1
+-1
+-77
+-1
+-7
+this is a fake triangle
+tests-MBP:cisc3410 gushuqin$ java question5
+Please Enter three 2D point x1,y1,x2,y2,x3,y3 on Coordinate System
+1
+1
+1
+2
+4
+5
+this is a real triangle
+tests-MBP:cisc3410 gushuqin$ java question5
+Please Enter three 2D point x1,y1,x2,y2,x3,y3 on Coordinate System
+1
+6
+-1
+-777
+-1.6
+-7
+this is a real triangle
+tests-MBP:cisc3410 gushuqin$ java question5
+Please Enter three 2D point x1,y1,x2,y2,x3,y3 on Coordinate System
+3
+3
+4
+4
+5
+5
+this is a fake triangle

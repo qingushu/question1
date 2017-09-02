@@ -1,0 +1,36 @@
+tests-MBP:cisc3410 gushuqin$ java question6
+Please Enter the center coordinates and radiuses of two circles, start from enter x-coordinate, y-coordinate and radius value for the first circle and then for the second circle
+3
+3
+3
+3
+2
+2
+completely within one another
+tests-MBP:cisc3410 gushuqin$ java question6
+Please Enter the center coordinates and radiuses of two circles, start from enter x-coordinate, y-coordinate and radius value for the first circle and then for the second circle
+3
+3
+3
+2
+2
+2
+two circle overlap each other
+tests-MBP:cisc3410 gushuqin$ java question6
+Please Enter the center coordinates and radiuses of two circles, start from enter x-coordinate, y-coordinate and radius value for the first circle and then for the second circle
+3
+3
+3
+-3
+3
+3
+two circle touching each other
+tests-MBP:cisc3410 gushuqin$ java question6
+Please Enter the center coordinates and radiuses of two circles, start from enter x-coordinate, y-coordinate and radius value for the first circle and then for the second circle
+3
+3
+3
+-3
+-3
+3
+two cricle separate from each other

@@ -1,0 +1,17 @@
+Enter radius of circle, Enter 'd' to exit the program:1
+Area of circle: 3.141592653589793
+Enter radius of circle, Enter 'd' to exit the program:2.6
+Area of circle: 21.237166338267002
+Enter radius of circle, Enter 'd' to exit the program:45
+Area of circle: 6361.725123519331
+Enter radius of circle, Enter 'd' to exit the program:777
+Area of circle: 1896670.5911591123
+Enter radius of circle, Enter 'd' to exit the program:44.678
+Area of circle: 6271.007501310993
+Enter radius of circle, Enter 'd' to exit the program:erew
+wrong input, type radius again
+Enter radius of circle, Enter 'd' to exit the program:g
+wrong input, type radius again
+Enter radius of circle, Enter 'd' to exit the program:ert
+wrong input, type radius again
+Enter radius of circle, Enter 'd' to exit the program:d
